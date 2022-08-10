@@ -5,8 +5,8 @@
 ## Your Details
 
 ### Name
-Your name goes here
+Craig Adumuah
 ### Course
 BSC Computing
 
-**Date** : dd/mm/yyyy
+**Date** : 10/08/2022
