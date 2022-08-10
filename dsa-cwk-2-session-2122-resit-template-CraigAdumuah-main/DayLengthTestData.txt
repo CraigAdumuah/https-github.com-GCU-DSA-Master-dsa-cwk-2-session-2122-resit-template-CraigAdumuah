@@ -1,0 +1,28 @@
+Dhaka,Bangladesh,05:11:00,18:43:00
+Seoul,South Korea,05:11:00,19:51:00
+Jakarta,Indonesia,05:59:00,17:44:00
+Tokyo,Japan,04:26:00,18:55:00
+Taipei,Taiwan,05:04:00,18:42:00
+Tehrān,Iran,05:49:00,20:18:00
+Bogotá,Colombia,05:45:00,18:06:00
+Berlin,Germany,04:45:00,21:26:00
+Madrid,Spain,06:45:00,21:43:00
+Addis Ababa,Ethiopia,06:06:00,18:42:00
+Nairobi,Kenya,06:31:00,18:32:00
+Paris,France,05:48:00,21:51:00
+Algiers,Algeria,05:29:00,20:05:00
+Khartoum,Sudan,05:19:00,18:19:00
+Stockholm,Sweden,03:35:00,21:59:00
+Copenhagen,Denmark,04:28:00,21:50:00
+Dublin,Ireland,04:59:00,21:50:00
+Brussels,Belgium,05:30:00,21:53:00
+Riga,Latvia,04:32:00,22:13:00
+Amsterdam,Netherlands,05:20:00,21:59:00
+Athens,Greece,06:03:00,20:45:00
+Oslo,Norway,03:58:00,22:35:00
+Helsinki,Finland,03:59:00,22:41:00
+Canberra,Australia,07:08:00,16:56:00
+Nicosia,Cyprus,05:32:00,19:59:00
+Port Louis,Mauritius,06:42:00,17:36:00
+Reykjavík,Iceland,03:05:00,23:50:00
+San Salvador,El Salvador,05:29:00,18:22:00
